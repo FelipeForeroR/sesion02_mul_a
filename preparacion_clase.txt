@@ -1,0 +1,3 @@
+Para preparar la clase revise el enlace dado por el profesor sobre sistemas de coordenadas.
+https://es.wikipedia.org/wiki/Sistema_de_coordenadas
+también navegue y explore un poco en GitHub para familiarizarme con la plataforma.
